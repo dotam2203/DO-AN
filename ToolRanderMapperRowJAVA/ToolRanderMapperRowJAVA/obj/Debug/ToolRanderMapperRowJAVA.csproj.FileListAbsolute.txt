@@ -1,0 +1,14 @@
+C:\Users\thuyhv\source\repos\ToolRanderMapperRowJAVA\ToolRanderMapperRowJAVA\bin\Debug\ToolRanderMapperRowJAVA.exe.config
+C:\Users\thuyhv\source\repos\ToolRanderMapperRowJAVA\ToolRanderMapperRowJAVA\bin\Debug\ToolRanderMapperRowJAVA.exe
+C:\Users\thuyhv\source\repos\ToolRanderMapperRowJAVA\ToolRanderMapperRowJAVA\bin\Debug\ToolRanderMapperRowJAVA.pdb
+C:\Users\thuyhv\source\repos\ToolRanderMapperRowJAVA\ToolRanderMapperRowJAVA\obj\Debug\ToolRanderMapperRowJAVA.csprojAssemblyReference.cache
+C:\Users\thuyhv\source\repos\ToolRanderMapperRowJAVA\ToolRanderMapperRowJAVA\obj\Debug\ToolRanderMapperRowJAVA.frmMain.resources
+C:\Users\thuyhv\source\repos\ToolRanderMapperRowJAVA\ToolRanderMapperRowJAVA\obj\Debug\ToolRanderMapperRowJAVA.Properties.Resources.resources
+C:\Users\thuyhv\source\repos\ToolRanderMapperRowJAVA\ToolRanderMapperRowJAVA\obj\Debug\ToolRanderMapperRowJAVA.csproj.GenerateResource.cache
+C:\Users\thuyhv\source\repos\ToolRanderMapperRowJAVA\ToolRanderMapperRowJAVA\obj\Debug\ToolRanderMapperRowJAVA.exe
+C:\Users\thuyhv\source\repos\ToolRanderMapperRowJAVA\ToolRanderMapperRowJAVA\obj\Debug\ToolRanderMapperRowJAVA.pdb
+C:\Users\thuyhv\source\repos\ToolRanderMapperRowJAVA\ToolRanderMapperRowJAVA\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\thuyhv\source\repos\ToolRanderMapperRowJAVA\ToolRanderMapperRowJAVA\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\thuyhv\source\repos\ToolRanderMapperRowJAVA\ToolRanderMapperRowJAVA\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\thuyhv\source\repos\ToolRanderMapperRowJAVA\ToolRanderMapperRowJAVA\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\thuyhv\source\repos\ToolRanderMapperRowJAVA\ToolRanderMapperRowJAVA\obj\Debug\ToolRanderMapperRowJAVA.csproj.CopyComplete
